@@ -118,11 +118,17 @@ Our testing focused on two primary scenarios:
    - Search: "BABF9885"
    - Results: Exact match followed by similar patterns (BABF988, BABF989, etc.)
    - Demonstrated effective fuzzy matching capabilities
+     ![image](https://github.com/user-attachments/assets/54a7ac94-29e1-49a3-8aaa-f8ac1c99cedd)
+
 
 2. **Product Description Search**
    - Search: "Fuel rotating"
    - Results: Successfully returned "Fuel Spin-On" products
    - Proved semantic understanding capabilities
+   ![image](https://github.com/user-attachments/assets/b3daf819-12f8-42b8-b1b5-eae9fdf3fc1e)
+  ![image](https://github.com/user-attachments/assets/d5628edd-8077-48c1-aafe-245058618dd0)
+
+
 
 ## Future Improvements
 
