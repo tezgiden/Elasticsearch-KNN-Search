@@ -125,7 +125,10 @@ Our testing focused on two primary scenarios:
    - Search: "Fuel rotating"
    - Results: Successfully returned "Fuel Spin-On" products
    - Proved semantic understanding capabilities
+     "Fuel spin-on" searches:
    ![image](https://github.com/user-attachments/assets/b3daf819-12f8-42b8-b1b5-eae9fdf3fc1e)
+
+    "Fuel rotating" search matches "Fuel spin-on" products:
   ![image](https://github.com/user-attachments/assets/d5628edd-8077-48c1-aafe-245058618dd0)
 
 
